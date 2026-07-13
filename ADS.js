@@ -1,0 +1,1 @@
+// ADS test js file
